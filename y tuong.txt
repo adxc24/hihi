@@ -1,0 +1,6 @@
+1. các đoạn kill giật chop sáng 
+2 . có tiếng khác biệt khi giết 
+3. hiệu ứng giết rung màn hình
+4. sync nhạc theo từng kill highlight
+5. thêm intro tên
+6. cảnh tua nhanh lúc di chuyển
